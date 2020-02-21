@@ -1,0 +1,14 @@
+Policy: ESCA
+Number of Virtual Page: 6
+Number of Physical Frame: 4
+-----Trace-----
+Write 0
+Write 1
+Read 2
+Write 3
+Read 4
+Write 5
+Read 3
+Write 2
+Read 0
+Read 1

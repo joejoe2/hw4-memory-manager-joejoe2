@@ -1,0 +1,9 @@
+Policy: FIFO
+Number of Virtual Page: 3
+Number of Physical Frame: 2
+-----Trace-----
+Write 2
+Write 0
+Write 1
+Read 2
+Write 2
